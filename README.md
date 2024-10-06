@@ -46,10 +46,32 @@ c) Stop server= Ctrl+ C , Automatic Start the Server= nodemon file.js
 
   e)PATCH
   
-![image](https://github.com/user-attachments/assets/edd0751c-03d7-48e7-8dc4-ed02d2ddd39a)
 
 
 ## MongoDB Tutorial | What is database & node js interview questions ##
+-There are lots of Databases available in the Market. We can use according to our needs -
+a) SQL
+b)PostgreSQL
+c)MongoDB
+d)Oracle
+e)MariaDB
+
+![image](https://github.com/user-attachments/assets/edd0751c-03d7-48e7-8dc4-ed02d2ddd39a)
+
+- Databases typically have their own server systems to manage and provide access to the data they store
+-These Database server system is separated from Nodejs server  but work together to create Dynamic & Data Driven Web Applications
+-
+
+
+
+
+
+
+
+
+
+
+
 
 
 
